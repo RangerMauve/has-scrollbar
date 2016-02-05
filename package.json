@@ -1,0 +1,27 @@
+{
+  "name": "has-scrollbar",
+  "version": "1.0.0",
+  "description": "Checks whether a given element has a scollbar or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/has-scrollbar.git"
+  },
+  "keywords": [
+    "scroll",
+    "scrollbar",
+    "dom",
+    "size",
+    "scrolling",
+    "has"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/has-scrollbar/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/has-scrollbar#readme"
+}
